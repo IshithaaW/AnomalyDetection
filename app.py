@@ -270,7 +270,7 @@ with tab4:
     - **Contamination Rate**: {contamination}
     - **Sample Size**: 256
     - **Features Used**: {len(numeric_cols)}
-   
+
     ### Detected Anomalies
     - **Total Anomalies**: {anomaly_count}
     - **Detection Rate**: {anomaly_count/total_count*100:.2f}%
